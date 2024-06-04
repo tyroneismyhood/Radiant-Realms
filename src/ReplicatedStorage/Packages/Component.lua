@@ -1,0 +1,1 @@
+return require(script.Parent._Index["ignoreme@0.1.0"]["ignoreme"])
